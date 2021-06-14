@@ -4,5 +4,6 @@ System.out.println("Hello World");
 }
 
 public void newchange(){
+Sytem.out.println("Some New changes");
 }
 }
